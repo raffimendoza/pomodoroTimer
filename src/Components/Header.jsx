@@ -13,7 +13,7 @@ export function Header () {
         </div>
         <nav>
             <div> <a href={"../schedule.html"}>SCHEDULE</a></div>
-            <div> <a href="../index.html">HOME</a></div>
+            <div> <a href="../index.html">HOME</a></div> 
             <div> <a href="../pomodoro.html"><strong>POMODORO</strong></a></div>
         </nav>
     </header>
