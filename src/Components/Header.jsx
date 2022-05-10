@@ -12,9 +12,9 @@ export function Header () {
             </div>
         </div>
         <nav>
-            <div> <a href={"../schedule.html"}>SCHEDULE</a></div>
-            <div> <a href="../index.html">HOME</a></div> 
-            <div> <a href="../pomodoro.html"><strong>POMODORO</strong></a></div>
+            <div> <a href="https://raffimendoza.github.io/ist263/project7/schedule.html">SCHEDULE</a></div>
+            <div> <a href="https://raffimendoza.github.io/ist263/project7/index.html">HOME</a></div> 
+            <div> <a href="https://raffimendoza.github.io/pomodoroTimer/"><strong>POMODORO</strong></a></div>
         </nav>
     </header>
   )
