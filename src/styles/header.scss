@@ -26,7 +26,7 @@ nav {
   font-size: 25px;
   font-family: 'Source Sans Pro', sans-serif;
   display: flex; /* Side by side */
-  justify-content: space-around; /* Always call on the same container as flex ^ */ /* Use space-around for project */     
+  justify-content: space-around; /* Always call on the same container as flex ^ */ /* Use space-around for project */  
 }
 
 nav div {
@@ -46,4 +46,8 @@ nav a:link {
 nav a:hover {
   color: #000e54;
   text-decoration: none;
+}
+
+#schedule, #home, #pomodoro {
+  color:  rgb(5, 136, 179);
 }
